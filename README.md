@@ -11,7 +11,7 @@ This website was built using HTML, CSS, and JavaScript.
 It explains the concept of CI/CD and shows how GitHub Actions can automatically deploy a static website to GitHub Pages.
 
 ## GitHub Pages Link
-Add your deployed website link here after publishing.
+https://diaa710.github.io/cloud-beginner-cicd-pages-diaa/
 
 ## How to Run Locally
 1. Download or clone the repository.
@@ -25,4 +25,5 @@ Add your deployed website link here after publishing.
 - `.github/workflows/deploy.yml`
 
 ## Deployment
+
 This project is deployed automatically using GitHub Actions whenever changes are pushed to the `main` branch.
